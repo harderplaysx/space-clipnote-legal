@@ -1,7 +1,7 @@
-# Terms of Service for Space ClipNote
+# Space ClipNote Terms of Service
 
-**Effective Date:** [INSERT DATE]
-**Last Updated:** [INSERT DATE]
+**Effective Date:** Aug 26, 2026
+**Last Updated:** Aug 27, 2026
 
 These Terms of Service ("Terms") govern your access to and use of Space ClipNote ("the Bot," "we," "us," "our"), a Discord bot. By sending the Bot a direct message, using any of its slash commands (`/note`, `/list`), interacting with its buttons, or otherwise authorizing the Bot to your Discord account, you agree to be bound by these Terms.
 
@@ -120,7 +120,7 @@ If any provision of these Terms is found to be unenforceable or invalid under ap
 
 For questions or concerns regarding these Terms, you may reach the Developer at:
 
-**[INSERT CONTACT METHOD — e.g., Discord support server, email, or contact form]**
+**harderplaysx.doc.feedback@gmail.com**
 
 ---
 

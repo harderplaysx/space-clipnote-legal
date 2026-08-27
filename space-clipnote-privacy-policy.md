@@ -1,7 +1,7 @@
-# Privacy Policy for Space ClipNote
+# Space ClipNote Privacy Policy
 
-**Effective Date:** [INSERT DATE]
-**Last Updated:** [INSERT DATE]
+**Effective Date:** Aug 26, 2026
+**Last Updated:** Aug 27, 2026
 
 This Privacy Policy explains how Space ClipNote ("the Bot," "we," "us") handles information when you use it on Discord. It applies to all users who interact with the Bot, whether via direct message, the `/note` command, the `/list` command, or any button or menu the Bot presents.
 
@@ -121,7 +121,7 @@ If you are a parent or guardian and believe a minor has provided information thr
 
 For questions, concerns, or requests related to this Privacy Policy, you may reach the Developer at:
 
-**[INSERT CONTACT METHOD — e.g., Discord support server, email, or contact form]**
+**harderplaysx.doc.feedback@gmail.com**
 
 ---
 
